@@ -11,5 +11,6 @@ def run():
         numero_elegido = int(input('Elige otro numero: '))
     print('Ganaste!')
 
+
 if __name__ == '__main__':
     run()
